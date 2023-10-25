@@ -1,4 +1,4 @@
-<h1>Windows Event Log: HoneyPot</h1>
+<h1>Failed RDP to IP Geolocation Information</h1>
 
 <h2>Description</h2>
 <b>The Powershell script in this repository is responsible for parsing out Windows Event Log information for failed RDP attacks and using a third party API to collect geographic information about the attackers location.
