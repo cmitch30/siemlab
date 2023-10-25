@@ -45,7 +45,9 @@ Sanitization complete:  <br/>
 <br />
 <br />
 Observe the VM Attacks:  <br/>
-<img src="https://imgur.com/A7efQfw" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/A7efQfw.png" height="80%" width="80%" alt="Attack Map"/>
+ <br />
+ <br />
 </p>
 
 <!--
